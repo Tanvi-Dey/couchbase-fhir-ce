@@ -6,7 +6,7 @@ Open source FHIR server and admin UI with Couchbase and Spring Boot with HAPI
 
 Couchbase FHIR CE is a comprehensive FHIR (Fast Healthcare Interoperability Resources) server implementation built on Couchbase with a modern React-based admin interface. This project provides a complete solution for healthcare data management and FHIR compliance.
 
-## Project Structure
+## Project Structure ---
 
 ```
 couchbase-fhir-ce/
